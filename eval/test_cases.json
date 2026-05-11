@@ -1,0 +1,112 @@
+[
+  {
+    "word": "moon",
+    "context": "Chinese Classical Poetry",
+    "expected_themes": ["homesickness", "longing", "nostalgia"],
+    "baseline_output": "",
+    "system_output": "",
+    "accuracy_score": null,
+    "cultural_relevance_score": null,
+    "clarity_score": null,
+    "notes": ""
+  },
+  {
+    "word": "moon",
+    "context": "Western Horror Literature",
+    "expected_themes": ["fear", "mystery", "danger", "werewolf"],
+    "baseline_output": "",
+    "system_output": "",
+    "accuracy_score": null,
+    "cultural_relevance_score": null,
+    "clarity_score": null,
+    "notes": ""
+  },
+  {
+    "word": "water",
+    "context": "Chinese Philosophy (Taoism)",
+    "expected_themes": ["flexibility", "harmony", "humility", "flow"],
+    "baseline_output": "",
+    "system_output": "",
+    "accuracy_score": null,
+    "cultural_relevance_score": null,
+    "clarity_score": null,
+    "notes": ""
+  },
+  {
+    "word": "water",
+    "context": "Western Romantic Poetry",
+    "expected_themes": ["emotion", "change", "purification", "life"],
+    "baseline_output": "",
+    "system_output": "",
+    "accuracy_score": null,
+    "cultural_relevance_score": null,
+    "clarity_score": null,
+    "notes": ""
+  },
+  {
+    "word": "night",
+    "context": "Gothic Literature",
+    "expected_themes": ["darkness", "mystery", "fear", "supernatural"],
+    "baseline_output": "",
+    "system_output": "",
+    "accuracy_score": null,
+    "cultural_relevance_score": null,
+    "clarity_score": null,
+    "notes": ""
+  },
+  {
+    "word": "night",
+    "context": "Chinese Modern Literature",
+    "expected_themes": ["solitude", "reflection", "urban loneliness"],
+    "baseline_output": "",
+    "system_output": "",
+    "accuracy_score": null,
+    "cultural_relevance_score": null,
+    "clarity_score": null,
+    "notes": ""
+  },
+  {
+    "word": "wind",
+    "context": "Japanese Haiku",
+    "expected_themes": ["transience", "nature", "season", "impermanence"],
+    "baseline_output": "",
+    "system_output": "",
+    "accuracy_score": null,
+    "cultural_relevance_score": null,
+    "clarity_score": null,
+    "notes": ""
+  },
+  {
+    "word": "fire",
+    "context": "Greek Mythology",
+    "expected_themes": ["power", "knowledge", "punishment", "Prometheus"],
+    "baseline_output": "",
+    "system_output": "",
+    "accuracy_score": null,
+    "cultural_relevance_score": null,
+    "clarity_score": null,
+    "notes": ""
+  },
+  {
+    "word": "fire",
+    "context": "Native American Spirituality",
+    "expected_themes": ["ceremony", "life", "community", "spirit"],
+    "baseline_output": "",
+    "system_output": "",
+    "accuracy_score": null,
+    "cultural_relevance_score": null,
+    "clarity_score": null,
+    "notes": ""
+  },
+  {
+    "word": "shadow",
+    "context": "Jungian Psychology",
+    "expected_themes": ["unconscious", "repression", "self", "dark side"],
+    "baseline_output": "",
+    "system_output": "",
+    "accuracy_score": null,
+    "cultural_relevance_score": null,
+    "clarity_score": null,
+    "notes": ""
+  }
+]
